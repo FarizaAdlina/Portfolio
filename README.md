@@ -15,8 +15,10 @@ I am a 1st year student | Bachelor in Science Computer (Data Engineering) with H
 **Subject: Technology and Information System (SECP 1513)**
 
 *ASEAN Quantum Summit*
+quantum talk.jpg
 
 -Report
+
 
 
 
