@@ -20,6 +20,8 @@ I am a 1st year student | Bachelor in Science Computer (Data Engineering) with H
 
 -Report
 
+![link](Report Quantum.pdf)
+
 
 
 
