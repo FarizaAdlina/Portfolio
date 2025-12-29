@@ -14,6 +14,12 @@ I am a 1st year student | Bachelor in Science Computer (Data Engineering) with H
 ## MY PORTFOLIO
 *SUBJECT: TECHNOLOGY AND INFORMATION SYSTEM**
 
+◾*Industry talk 1*
+
+I had the oppurtunity to attend the talk at UTMDigital Open Day. I got a lot of new knowledge by attending the talk. We also have an assignment to create a video based on the attended talk.
+
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7394652030339829760/">You can see what I have attended by clicking on this.</a>
+
 ◾*ASEAN Quantum Summit*
 
 ![image](quantum talk.jpg)
