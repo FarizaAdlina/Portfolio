@@ -12,7 +12,7 @@ I am a 1st year student | Bachelor in Science Computer (Data Engineering) with H
 **-✅ C++**
 
 ## MY PORTFOLIO
-*SUBJECT: TECHNOLOGY AND INFORMATION SYSTEM**
+*SUBJECT: TECHNOLOGY AND INFORMATION SYSTEM*
 
 ◾*Industry talk 1*
 
