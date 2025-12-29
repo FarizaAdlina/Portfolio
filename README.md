@@ -18,6 +18,9 @@ I am a 1st year student | Bachelor in Science Computer (Data Engineering) with H
 
 I had the oppurtunity to attend the talk at UTMDigital Open Day. I got a lot of new knowledge by attending the talk. We also have an assignment to create a video based on the attended talk.
 
+![image](WhatsApp Image 2025-11-13 at 14.41.52_54c10798.jpg)
+![image](
+
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7394652030339829760/">You can see what I have attended by clicking on this.</a>
 
 ◾*ASEAN Quantum Summit*
