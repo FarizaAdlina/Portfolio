@@ -12,17 +12,30 @@ I am a 1st year student | Bachelor in Science Computer (Data Engineering) with H
 **-✅ C++**
 
 ## MY PORTFOLIO
-**Subject: Technology and Information System (SECP 1513)**
+*SUBJECT: TECHNOLOGY AND INFORMATION SYSTEM**
 
-*ASEAN Quantum Summit*
+◾*ASEAN Quantum Summit*
 
 ![image](quantum talk.jpg)
 
 -Report
 
-<a href="Report Quantum.pdf">Doenload the report here (pdf.file)</a>
+<a href="Report Quantum.pdf">Download the report here (pdf.file)</a>
 
-##CONTACT DETAILS
+◾*Industry talk 2*
+
+Learn about project management and system development by Ts. Hj. Abdul Alim bin Mutallib
+
+<table>
+  <tbody>
+    <tr>
+      <td>Report</td>
+      <td><a herf=" ">Assignment 3 (Group 5)</a></td>
+    </tr>
+  </tbody>
+</table>
+
+## CONTACT DETAILS
 *Let's connect and see how we can make difference together*
 <table>
   <tbody>
