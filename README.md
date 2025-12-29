@@ -35,6 +35,8 @@ I had the oppurtunity to attend the talk at UTMDigital Open Day. I got a lot of 
 
 Learn about project management and system development by Ts. Hj. Abdul Alim bin Mutallib
 
+![image](photo_2025-12-29_21-16-35.jpg)
+
 <table>
   <tbody>
     <tr>
