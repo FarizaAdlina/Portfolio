@@ -12,7 +12,7 @@ I am a 1st year student | Bachelor in Science Computer (Data Engineering) with H
 **-✅ C++**
 
 ## MY PORTFOLIO
-*SUBJECT: TECHNOLOGY AND INFORMATION SYSTEM*
+✨*TECHNOLOGY AND INFORMATION SYSTEM*
 
 ◾*Industry talk 1*
 
@@ -47,35 +47,49 @@ Learn about project management and system development by Ts. Hj. Abdul Alim bin 
 </table>
 
 
-*SUBJECT: PROGRAMMING TECHNIQUE*
+✨*PROGRAMMING TECHNIQUE*
 
-◾Group Assignment 1
+◾*Group Assignment 1*
 
 Group assignment where we need to draw a flowchart for the solution. I can fully understand on how to build flowchart for user defined function using a modular.
 
 <a href="Assignment1.drawio.pdf">Read more</a>
 
-◾Group Assignment 2
+◾*Group Assignment 2*
 
-Make a coding based on the output that has been given using c++. I got to enhance my skill using user defined function and output formating by using manipulators.
+Make a coding based on the output that has been given using c++. There's 2 set and we need to choose 1 set to answer.
+We choose set 2 to answer the question. I got to enhance my skill using user defined function and output formating by using manipulators.
 
+<a href="Assignment2.pdf">Question</a>
 <a href="Assignment2.cpp">Read more</a>
 
-◾In Class Exercise
+◾*In Class Exercise*
 
 We use an array for the program. I can practice my skills of the array in coding. 
 
-*SUBJECT: DIGITAL LOGIC*
+![image]Screenshot 2025-12-30 164259.png
 
-◾Lab 2
+<a href="program1.cpp">Program 1</a>
+<a href="Program2.cpp">Program 2</a>
+
+✨*DIGITAL LOGIC*
+
+◾*Lab 2*
 
 We use deeds app to get the output. I got to understand to get boolean expression through k-map based on the output that has been obtained.
 
-*SUBJECT: DISCRETE STRUCTURE*
+<a href="Lab 2.pdf">The question and answer of it</a>
+<a href="LAB 2 (Part 1).pbs">Logic circuit for part 1</a>
+<a href="LAB 2 (Part 2).pbs">Logic circuit for part 2</a>
 
-◾Group Assignment 2
+✨*DISCRETE STRUCTURE*
+
+◾*Group Assignment 2*
 
 We try solving all the question and compare each other answer. I got to enhance my critical thinking by solving all the question.
+
+<a href="Assignment 2 Chapter 2.pdf">Question</a>        
+<a href="group6.pdf">The answer</a>
 
 
 
