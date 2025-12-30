@@ -61,6 +61,7 @@ Make a coding based on the output that has been given using c++. There's 2 set a
 We choose set 2 to answer the question. I got to enhance my skill using user defined function and output formating by using manipulators.
 
 <a href="Assignment2.pdf">Question</a>
+
 <a href="Assignment2.cpp">Read more</a>
 
 ◾*In Class Exercise*
@@ -70,6 +71,7 @@ We use an array for the program. I can practice my skills of the array in coding
 ![image]Screenshot 2025-12-30 164259.png
 
 <a href="program1.cpp">Program 1</a>
+
 <a href="Program2.cpp">Program 2</a>
 
 ✨*DIGITAL LOGIC*
@@ -79,7 +81,9 @@ We use an array for the program. I can practice my skills of the array in coding
 We use deeds app to get the output. I got to understand to get boolean expression through k-map based on the output that has been obtained.
 
 <a href="Lab 2.pdf">The question and answer of it</a>
+
 <a href="LAB 2 (Part 1).pbs">Logic circuit for part 1</a>
+
 <a href="LAB 2 (Part 2).pbs">Logic circuit for part 2</a>
 
 ✨*DISCRETE STRUCTURE*
@@ -88,7 +92,8 @@ We use deeds app to get the output. I got to understand to get boolean expressio
 
 We try solving all the question and compare each other answer. I got to enhance my critical thinking by solving all the question.
 
-<a href="Assignment 2 Chapter 2.pdf">Question</a>        
+<a href="Assignment 2 Chapter 2.pdf">Question</a>   
+
 <a href="group6.pdf">The answer</a>
 
 
