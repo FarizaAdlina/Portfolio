@@ -46,12 +46,14 @@ Learn about project management and system development by Ts. Hj. Abdul Alim bin 
   </tbody>
 </table>
 
+
 *SUBJECT: PROGRAMMING TECHNIQUE*
+
 ◾Group Assignment 1
 
 Group assignment where we need to draw a flowchart for the solution. I can fully understand on how to build flowchart for user defined function using a modular.
 
-<a href="
+<a href="Assignment1.drawio.pdf">Read more</a>
 
 ## CONTACT DETAILS
 *Let's connect and see how we can make difference together*
