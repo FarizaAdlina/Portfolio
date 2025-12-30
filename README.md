@@ -31,6 +31,14 @@ I had the oppurtunity to attend the talk at UTMDigital Open Day. I got a lot of 
 
 <a href="Report Quantum.pdf">Download the report here (pdf.file)</a>
 
+◾*Design Thinking Project*
+
+About mental health insight of UTM students. Based on this project I learn on find the problem and the solution. It also enhance my critical thinking and social skills.
+
+<a href="">Video</a>
+
+<a href="">Report</a>
+
 ◾*Industry talk 2*
 
 Learn about project management and system development by Ts. Hj. Abdul Alim bin Mutallib
