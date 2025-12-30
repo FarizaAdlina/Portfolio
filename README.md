@@ -35,13 +35,13 @@ I had the oppurtunity to attend the talk at UTMDigital Open Day. I got a lot of 
 
 About mental health insight of UTM students. Based on this project I learn on find the problem and the solution. It also enhance my critical thinking and social skills.
 
-<a href="">Video</a>
+<a href="https://drive.google.com/drive/folders/1C5ZGtGp_phNOASKv_is6ifP2vMHVsOqJ">Video</a>
 
-<a href="">Report</a>
+<a href="Report Project TIS.pdf">Report</a>
 
 ◾*Industry talk 2*
 
-Learn about project management and system development by Ts. Hj. Abdul Alim bin Mutallib
+Learn about project management and system development by Ts. Hj. Abdul Alim bin Mutallib. 
 
 ![image](photo_2025-12-29_21-16-35.jpg)
 
