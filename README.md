@@ -55,6 +55,30 @@ Group assignment where we need to draw a flowchart for the solution. I can fully
 
 <a href="Assignment1.drawio.pdf">Read more</a>
 
+◾Group Assignment 2
+
+Make a coding based on the output that has been given using c++. I got to enhance my skill using user defined function and output formating by using manipulators.
+
+<a href="Assignment2.cpp">Read more</a>
+
+◾In Class Exercise
+
+We use an array for the program. I can practice my skills of the array in coding. 
+
+*SUBJECT: DIGITAL LOGIC*
+
+◾Lab 2
+
+We use deeds app to get the output. I got to understand to get boolean expression through k-map based on the output that has been obtained.
+
+*SUBJECT: DISCRETE STRUCTURE*
+
+◾Group Assignment 2
+
+We try solving all the question and compare each other answer. I got to enhance my critical thinking by solving all the question.
+
+
+
 ## CONTACT DETAILS
 *Let's connect and see how we can make difference together*
 <table>
